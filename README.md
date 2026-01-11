@@ -19,13 +19,13 @@ List of python libraries needed for this program:
 6. sys
 
 Keybinds for the simulator:
-wasd - move in the respective directions
-esc - open control menu
-m - open object menu
-scroll up/down - zoom in/out
-hold middle mouse button and move mouse - pan around the screen
-space - pause time
-left/right arrows - speed up/slow down time
-click object to open its menu
-click and drag object from object menu to place it in desired location
-all other buttons are clicked to do the action
+- wasd - move in the respective directions
+- esc - open control menu
+- m - open object menu
+- scroll up/down - zoom in/out
+- hold middle mouse button and move mouse - pan around the screen
+- space - pause time
+- left/right arrows - speed up/slow down time
+- click object to open its menu
+- click and drag object from object menu to place it in desired location
+- all other buttons are clicked to do the action
